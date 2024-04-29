@@ -1,8 +1,10 @@
 <h3 align="center">A passionate "Developer" and "Epistemophile" from New Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programer3&label=Profile%20views&color=0e75b6&style=flat" alt="programer3" /> </p>
-[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
-<p align="left"> <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="programer3" /> </p>
+<p align="left"> <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="programer3" width="40" height="40" /> </p>
+<p align="left"> <img src="https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg" alt="programer3" width="40" height="40" /> </p>
+<p align="left"> <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="programer3" width="40" height="40" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/commit-activity/w/Programer3/" alt="programer3" width="40" height="40" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3" alt="programer3" /></a> </p>
 
