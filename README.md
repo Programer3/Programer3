@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am Aman Gupta 😃 A passionate "Developer" and "Epistemophile" from New Delhi</h3>
+<h3 align="center">Hi, I am Aman Gupta 😃 A passionate "Developer" and "Epistemophile" from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programer3&label=Profile%20views&color=0e75b6&style=flat" alt="programer3" />
 <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="programer3" width="160" height="30" />
@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3" alt="programer3" /></a> </p>
 
-- 🔭 I’m currently working on [Search-assistant-pro](https://github.com/Programer3/Search-assistant-pro)
+- 🔭 I’m currently working on [Search-assistant-pro](https://github.com/Programer3/search-assistant-pro)
 
 - 🌱 I’m currently learning **and Underdstanding The Web in deep**
 
