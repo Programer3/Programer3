@@ -1,22 +1,18 @@
-<h3 align="center">Hi, I am Aman Gupta 😃 A passionate "Developer" and "Epistemophile" from India</h3>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=1060&lines=Hi%2C+I'm+Aman+Gupta+%F0%9F%98%83%2C+Welcome+to+my+Github" align = "middle" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programer3&label=Profile%20views&color=0e75b6&style=flat" alt="programer3" />
-<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="programer3" width="160" height="30" />
+<p>
 <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="programer3" width="160" height="30" />
 <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="programer3" width="150" height="25" />
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="programer3" width="150" height="25" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="programer3" />
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="programer3" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="programer3" />
+<img src="https://img.shields.io/badge/fascinated by-CLOUD-blue?style=flat-square&logoSize=auto" alt="Programer3" />
+<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" alt="programer3" width="150" height="30" />
 </p>
-
-[![GitHub followers](https://img.shields.io/github/followers/Programer3.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Programer3?tab=followers)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3" alt="programer3" /></a> </p>
 
 - 🔭 I’m currently working on [Search-assistant-pro](https://github.com/Programer3/search-assistant-pro)
 
-- 🌱 I’m currently learning **and Underdstanding The Web in deep**
+- 🌱 I’m currently learning and **Underdstanding The Web with Cloud & Devops in deep**
 
 - 👯 I’m looking to collaborate on [Godot 2D infinte game](https://github.com/Programer3/Mountain_bike_HD)
 
@@ -34,10 +30,7 @@
 <a href="https://kaggle.com/ammugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ammugg" height="30" width="40" /></a>
 </p>
 
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Programer3" id="counter">
-</p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Programer3" id="counter"> <img src="https://komarev.com/ghpvc/?username=programer3&label=Profile%20views&color=0e75b6&style=flat" alt="programer3" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,8 +40,10 @@
 <hr \>
 
 <details>
-  <summary>Detailed++</summary>
+  <summary>Details++</summary>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programer3&show_icons=true&locale=en" alt="programer3" /></p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programer3&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3" alt="programer3" /></a> </p>
