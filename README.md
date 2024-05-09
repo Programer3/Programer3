@@ -37,12 +37,8 @@
 
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark)
-
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programer3&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programer3&theme=github_dark)
+:![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programer3&theme=github_dark):
 
 <br>
 
@@ -53,8 +49,13 @@
 
 <br>
 
-|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
-|---|---|---|
-|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=github_dark)](https://github.com/Programer3/)|[![GitHub Streak](https://streak-stats.demolab.com?user=Programer3&theme=github_dark&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/Programer3/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programer3&theme=github_dark)](https://github.com/Programer3/)|
+|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>
+|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samadpls&theme=github_dark)](https://github.com/Programer3/)|[![GitHub Streak](https://streak-stats.demolab.com?user=Programer3&theme=github_dark&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/Programer3/)|
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3&theme=github_dark&no-bg=true&margin-w=4" alt="programer3" /></a></p>
+
+<a href='https://github.com/Programer3/'>
+<div align='center'>
+<img src='https://github.com/Programer3/Programer3/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
