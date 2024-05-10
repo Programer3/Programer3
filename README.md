@@ -37,8 +37,11 @@
 
 <hr>
 
-:![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programer3&theme=github_dark):
+<p align="center"><a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark"</a>
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programer3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Programer3&theme=github_dark)
 
 <br>
 
@@ -55,7 +58,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programer3&theme=github_dark&no-bg=true&margin-w=4" alt="programer3" /></a></p>
 
-<a href='https://github.com/Programer3/'>
-<div align='center'>
-<img src='https://github.com/Programer3/Programer3/blob/output/github-contribution-grid-snake.svg'/>
-</div></a>
+</details>
+
+<div align="center"><a href="https://metrics.lecoq.io/insights?user=Programer3">DETAILED ANALYSIS OF MY GITHUB</a></div>
