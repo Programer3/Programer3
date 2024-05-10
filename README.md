@@ -37,7 +37,7 @@
 
 <hr>
 
-<p align="center"><a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark"</a>
+<p align="center"><a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Programer3&theme=github_dark"></a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Programer3&theme=github_dark)
