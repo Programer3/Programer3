@@ -1,28 +1,146 @@
 import os
 import requests
+from datetime import datetime
 
 USERNAME = "Programer3"
 
+# ==========================================
+# 1. STATIC TERMINAL CONFIGURATION
+# Modify these to match your personal setup
+# ==========================================
+TERMINAL_CONFIG = {
+    "oS": "Windows 11 Pro, Kali Linux (WSL)",
+    "uPtime": "Always learning",
+    "kernel": "👀",
+    "iDe": "VSCode, Neovim",
+    "languages_prog": "Python, Java, C++, Dart",
+    "languages_spoken": "Hindi, English",
+    "hObbies": "Lerning, Open Source, Gaming",
+    "eMail": "your.email@example.com",
+    "discord": "your_discord_tag",
+    "aLways": "Curious about new tech and open source projects",
+    "mOre info": "<-- On the left side of screen"
+}
+
+# ==========================================
+# 2. GITHUB API HELPERS
+# ==========================================
 def get_headers():
     token = os.getenv("GITHUB_TOKEN")
-    if token:
-        return {"Authorization": f"Bearer {token}"}
-    return {}
+    if not token:
+        raise ValueError("GITHUB_TOKEN environment variable is not set!")
+    return {"Authorization": f"Bearer {token}"}
 
-def fetch_user_stats():
-    """Fetches basic user stats like followers and public repos."""
+def run_graphql_query(query):
+    """Executes a GraphQL query against GitHub's API."""
+    url = "https://api.github.com/graphql"
+    response = requests.post(url, json={'query': query}, headers=get_headers())
+    response.raise_for_status()
+    return response.json()
+
+# ==========================================
+# 3. DATA FETCHING FUNCTIONS
+# ==========================================
+
+def fetch_basic_user_stats():
+    """Fetches followers, following, and basic profile info."""
     url = f"https://api.github.com/users/{USERNAME}"
     response = requests.get(url, headers=get_headers())
     response.raise_for_status()
     return response.json()
 
-def fetch_user_repos():
-    """Fetches the user's repositories to calculate stars and find recent work."""
-    url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated"
+def fetch_recent_stars(limit=5):
+    """Fetches the repositories the user has recently starred."""
+    url = f"https://api.github.com/users/{USERNAME}/starred?per_page={limit}&sort=created&direction=desc"
     response = requests.get(url, headers=get_headers())
     response.raise_for_status()
     return response.json()
 
-def calculate_total_stars(repos):
-    """Iterates through repos to sum up total stars received."""
-    return sum(repo.get("stargazers_count", 0) for repo in repos)
+def fetch_advanced_stats():
+    """
+    Uses GraphQL to fetch complex stats in a single network request:
+    Total Commits (this year), Total Contributed Repos, and Total Stars Earned.
+    """
+    query = f"""
+    query {{
+      user(login: "{USERNAME}") {{
+        repositoriesContributedTo(first: 1, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {{
+          totalCount
+        }}
+        contributionsCollection {{
+          totalCommitContributions
+          restrictedContributionsCount
+        }}
+        repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {{
+          totalCount
+          nodes {{
+            stargazerCount
+          }}
+        }}
+      }}
+    }}
+    """
+    data = run_graphql_query(query)
+    user_data = data['data']['user']
+    
+    # Calculate Total Stars Earned
+    repos = user_data['repositories']['nodes']
+    total_stars_earned = sum(repo['stargazerCount'] for repo in repos)
+    
+    # Calculate Total Commits (Public + Private this year)
+    collections = user_data['contributionsCollection']
+    total_commits = collections['totalCommitContributions'] + collections['restrictedContributionsCount']
+    
+    return {
+        "contributed_repos": user_data['repositoriesContributedTo']['totalCount'],
+        "total_commits_this_year": total_commits,
+        "total_stars_earned": total_stars_earned,
+        "owned_repos": user_data['repositories']['totalCount']
+    }
+
+def fetch_lines_of_code():
+    """
+    Approximates Lines of Code (LOC) by fetching language bytes across all owned repos.
+    Note: GitHub does not expose exact global addition/deletion LOC easily via API.
+    Most metrics tools use the repository languages endpoint to estimate this.
+    """
+    url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&type=owner"
+    repos = requests.get(url, headers=get_headers()).json()
+    
+    total_bytes = 0
+    for repo in repos:
+        # Skip forks to only count your original code
+        if repo['fork']:
+            continue
+            
+        lang_url = repo['languages_url']
+        lang_data = requests.get(lang_url, headers=get_headers()).json()
+        
+        # Sum the bytes of code for each language in the repo
+        total_bytes += sum(lang_data.values())
+    
+    # Extremely rough estimation: average 30 bytes per line of code
+    estimated_loc = total_bytes // 30 
+    
+    return {
+        "total_bytes": total_bytes,
+        "estimated_lines": estimated_loc
+    }
+
+def get_all_data():
+    """Master function to gather everything into one clean dictionary."""
+    basic = fetch_basic_user_stats()
+    advanced = fetch_advanced_stats()
+    loc = fetch_lines_of_code()
+    recent_stars = fetch_recent_stars()
+    
+    return {
+        "terminal": TERMINAL_CONFIG,
+        "followers": basic.get("followers", 0),
+        "repos": advanced["owned_repos"],
+        "contributed": advanced["contributed_repos"],
+        "stars": advanced["total_stars_earned"],
+        "commits": advanced["total_commits_this_year"],
+        "loc": loc["estimated_lines"],
+        "recent_stars": recent_stars
+    }

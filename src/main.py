@@ -1,18 +1,14 @@
-from github_api import fetch_user_stats, fetch_user_repos, calculate_total_stars
+from github_api import get_all_data
 from builder import generate_readme
 
 def main():
-    print("Fetching user stats...")
-    user_stats = fetch_user_stats()
-    
-    print("Fetching repository data...")
-    repos = fetch_user_repos()
-    
-    print("Calculating total stars...")
-    total_stars = calculate_total_stars(repos)
+    print("Fetching all GitHub and Static data...")
+    # This single call grabs everything!
+    all_data = get_all_data() 
     
     print("Generating new README.md...")
-    generate_readme(user_stats, repos, total_stars)
+    # Pass the massive data dictionary to your builder
+    generate_readme(all_data) 
     
     print("Successfully updated README!")
 
