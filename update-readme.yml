@@ -1,0 +1,52 @@
+# ================================================================
+# update-readme.yml
+#
+# Runs readme-scribe to render README.gtpl → README.md
+# and commits the result back to the repo.
+#
+# Schedule: every day at midnight UTC
+# Also runs on every push to main (so edits deploy immediately)
+# ================================================================
+
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+
+  push:
+    branches:
+      - main               # also fires on every push to main
+
+  workflow_dispatch:       # lets you trigger it manually from the Actions tab
+
+jobs:
+  update:
+    name: Render template and commit README
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out the repo so we can read and write files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. readme-scribe reads README.gtpl and writes README.md
+      #    GITHUB_TOKEN is automatically provided by GitHub Actions
+      - name: Run readme-scribe
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          template: "README.gtpl"
+          writeto:  "README.md"
+
+      # 3. Commit the freshly rendered README.md back to the repo
+      #    stefanzweifel/git-auto-commit skips the commit if nothing changed
+      - name: Commit updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "bot: auto-update README [skip ci]"
+          commit_author:  "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          file_pattern:   "README.md"
