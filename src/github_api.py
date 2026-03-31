@@ -10,16 +10,16 @@ USERNAME = "Programer3"
 # ==========================================
 TERMINAL_CONFIG = {
     "oS": "Windows 11 Pro, Kali Linux (WSL)",
-    "uPtime": "Always learning",
+    # "uPtime": "Always learning",
     "kernel": "👀",
-    "iDe": "VSCode, Neovim",
-    "languages_prog": "Python, Java, C++, Dart",
+    "iDe": "VSCode, Astudio, JetBrains",
+    "prog_languages": "Python, Java, C++, Dart",
     "languages_spoken": "Hindi, English",
     "hObbies": "Lerning, Open Source, Gaming",
-    "eMail": "your.email@example.com",
-    "discord": "your_discord_tag",
+    "eMail": "amankmcs@gmail.com",
     "aLways": "Curious about new tech and open source projects",
-    "mOre info": "<-- On the left side of screen"
+    "mOre info": "👈 On the left side of screen"
+    "Fav Casing": "Obviously Pascal then camelCase, look 👆"
 }
 
 # ==========================================
@@ -96,6 +96,38 @@ def fetch_advanced_stats():
         "total_commits_this_year": total_commits,
         "total_stars_earned": total_stars_earned,
         "owned_repos": user_data['repositories']['totalCount']
+    }
+
+def fetch_comprehensive_stats():
+    # 1. Basic User Data (Following, Created At)
+    user_url = f"https://api.github.com/users/{USERNAME}"
+    user_data = requests.get(user_url, headers=get_headers()).json()
+    
+    # 2. Repo Data (Size, Max Commits)
+    repo_url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+    repos = requests.get(repo_url, headers=get_headers()).json()
+    
+    total_kb = sum(repo.get('size', 0) for repo in repos)
+    # Convert KB to MB/GB for readability
+    size_str = f"{total_kb / 1024:.2f} MB" if total_kb < 1048576 else f"{total_kb / 1048576:.2f} GB"
+    
+    # 3. Years on GitHub (Since 2020)
+    current_year = datetime.utcnow().year
+    years_active = current_year - 2020
+
+    # 4. Coding Hours (ESTIMATION: 0.75 hours per commit as a benchmark)
+    # Note: For real hours, you'd need a WakaTime API key.
+    estimated_hours = int(data.get('commits', 0)) * 0.75
+
+    return {
+        "years_active": years_active,
+        "following": user_data.get('following', 0),
+        "total_size": size_str,
+        "coding_hours": f"{estimated_hours:,}",
+        # These usually require paginating through all events or using a 3rd party
+        # We'll set these as placeholders for now
+        "current_streak": "12 Days", 
+        "best_streak": "45 Days"
     }
 
 def fetch_lines_of_code():

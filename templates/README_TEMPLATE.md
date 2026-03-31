@@ -1,35 +1,29 @@
-# Programer3 @ GitHub
----
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=800&height=200&pause=2000&backgroundOpacity=0&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Welcome+to+My+Github%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A56%2C%22typingSpeed%22%3A0.125%2C%22fontWeight%22%3A%22600%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-<pre>
-                                                                                                                                                                                                
-                                                                                                                                                                                                
-PPPPPPPPPPPPPPPPP                                                                                                                                                             333333333333333   
-P::::::::::::::::P                                                                                                                                                           3:::::::::::::::33 
-P::::::PPPPPP:::::P                                                                                                                                                          3::::::33333::::::3
-PP:::::P     P:::::P                                                                                                                                                         3333333     3:::::3
-  P::::P     P:::::Prrrrr   rrrrrrrrr      ooooooooooo      ggggggggg   gggggrrrrr   rrrrrrrrr   aaaaaaaaaaaaa      mmmmmmm    mmmmmmm       eeeeeeeeeeee    rrrrr   rrrrrrrrr           3:::::3
-  P::::P     P:::::Pr::::rrr:::::::::r   oo:::::::::::oo   g:::::::::ggg::::gr::::rrr:::::::::r  a::::::::::::a   mm:::::::m  m:::::::mm   ee::::::::::::ee  r::::rrr:::::::::r          3:::::3
-  P::::PPPPPP:::::P r:::::::::::::::::r o:::::::::::::::o g:::::::::::::::::gr:::::::::::::::::r aaaaaaaaa:::::a m::::::::::mm::::::::::m e::::::eeeee:::::eer:::::::::::::::::r 33333333:::::3 
-  P:::::::::::::PP  rr::::::rrrrr::::::ro:::::ooooo:::::og::::::ggggg::::::ggrr::::::rrrrr::::::r         a::::a m::::::::::::::::::::::me::::::e     e:::::err::::::rrrrr::::::r3:::::::::::3  
-  P::::PPPPPPPPP     r:::::r     r:::::ro::::o     o::::og:::::g     g:::::g  r:::::r     r:::::r  aaaaaaa:::::a m:::::mmm::::::mmm:::::me:::::::eeeee::::::e r:::::r     r:::::r33333333:::::3 
-  P::::P             r:::::r     rrrrrrro::::o     o::::og:::::g     g:::::g  r:::::r     rrrrrrraa::::::::::::a m::::m   m::::m   m::::me:::::::::::::::::e  r:::::r     rrrrrrr        3:::::3
-  P::::P             r:::::r            o::::o     o::::og:::::g     g:::::g  r:::::r           a::::aaaa::::::a m::::m   m::::m   m::::me::::::eeeeeeeeeee   r:::::r                    3:::::3
-  P::::P             r:::::r            o::::o     o::::og::::::g    g:::::g  r:::::r          a::::a    a:::::a m::::m   m::::m   m::::me:::::::e            r:::::r                    3:::::3
-PP::::::PP           r:::::r            o:::::ooooo:::::og:::::::ggggg:::::g  r:::::r          a::::a    a:::::a m::::m   m::::m   m::::me::::::::e           r:::::r        3333333     3:::::3
-P::::::::P           r:::::r            o:::::::::::::::o g::::::::::::::::g  r:::::r          a:::::aaaa::::::a m::::m   m::::m   m::::m e::::::::eeeeeeee   r:::::r        3::::::33333::::::3
-P::::::::P           r:::::r             oo:::::::::::oo   gg::::::::::::::g  r:::::r           a::::::::::aa:::am::::m   m::::m   m::::m  ee:::::::::::::e   r:::::r        3:::::::::::::::33 
-PPPPPPPPPP           rrrrrrr               ooooooooooo       gggggggg::::::g  rrrrrrr            aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmm    eeeeeeeeeeeeee   rrrrrrr         333333333333333   
-                                                                     g:::::g                                                                                                                    
-                                                         gggggg      g:::::g                                                                                                                    
-                                                         g:::::gg   gg:::::g                                                                                                                    
-                                                          g::::::ggg:::::::g                                                                                                                    
-                                                           gg:::::::::::::g                                                                                                                     
-                                                             ggg::::::ggg                                                                                                                       
-                                                                gggggg                                                                                                                          </pre>
 
-```text
-programer3@github -----------------------------------------------------------
+<pre>                                                               
+                                                               
+█████▄ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄   ▄▄ ▄▄▄▄▄ ▄▄▄▄  ████▄ 
+██▄▄█▀ ██▄█▄ ██▀██ ██ ▄▄ ██▄█▄ ██▀██ ██▀▄▀██ ██▄▄  ██▄█▄  ▄▄██ 
+██     ██ ██ ▀███▀ ▀███▀ ██ ██ ██▀██ ██   ██ ██▄▄▄ ██ ██ ▄▄▄█▀ 
+                                                               </pre>
+
+- 🔭 I’m currently working on [Secret Project]()
+
+- 🌱 I’m currently learning and **Underdstanding The Web using AI with Cloud & Devops**
+
+<!-- - 👯 I’m looking to collaborate on [Godot 2D infinte game](https://github.com/Programer3/Mountain_bike_HD) -->
+
+<!-- - 🤝 I’m looking for help with [Django ERP system](https://github.com/Programer3/ERP_django) -->
+
+- 👨‍💻 All of my projects are available [here](https://github.com/Programer3?tab=repositories&type=source)
+
+- 📄 Know about my Journey and skills [https://programer3.github.io/](https://programer3.github.io/)
+
+- ⚡ Fun fact **I ❤️ Open Souce**
+
+```diff
++programer3@github -----------------------------------------------------------
 {terminal_info}
 
 - Contact --------------------------------------------------------------------
@@ -41,4 +35,14 @@ programer3@github -----------------------------------------------------------
 - Recently Starred ---------------------------------------------------------------
 {recent_stars}
 
-// Last system update: {last_updated}
+// Last update: {last_updated}
+```
+
+<p>
+<img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="programer3" width="150" height="25" />
+<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="programer3" width="150" height="25" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="programer3" />
+<img src="https://forthebadge.com/badges/uses-git.svg" alt="programer3" width="100" height="25" />
+<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="programer3" width="160" height="30" />
+<img src="https://forthebadge.com/badges/built-with-love.svg" alt="programer3" width="150" height="30" />
+</p>

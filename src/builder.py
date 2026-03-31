@@ -2,12 +2,10 @@ import os
 from datetime import datetime
 
 def get_terminal_line(key, value, width=20):
-    """
-    Creates a terminal-style line: 'Key: ........... Value'
-    """
-    # Calculate how many dots we need to fill the gap
+    """Adds a '+' to the start to make the text GREEN in a diff block."""
     dots = "." * (width - len(key))
-    return f" . {key}:{dots} {value}"
+    # The '+' at the start makes this line GREEN in a 'diff' code block
+    return f"+ {key}:{dots} {value}"
 
 def format_starred_repos(starred_list, limit=5):
     """Formats the recently starred repos into a clean list."""
@@ -30,29 +28,30 @@ def generate_readme(data):
     # Mapping exactly to your specific mixed-case keys
     terminal_info = [
         get_terminal_line("OS", t.get('oS', 'N/A')),
-        get_terminal_line("Uptime", t.get('uPtime', 'N/A')),
+        # get_terminal_line("Uptime", t.get('uPtime', 'N/A')),
         get_terminal_line("Kernel", t.get('kernel', 'N/A')),
         get_terminal_line("IDE", t.get('iDe', 'N/A')),
-        get_terminal_line("Languages.Prog", t.get('languages_prog', 'N/A')),
+        get_terminal_line("Languages.Prog", t.get('prog_languages', 'N/A')),
         get_terminal_line("Languages.Real", t.get('languages_spoken', 'N/A')),
         get_terminal_line("Hobbies", t.get('hObbies', 'N/A')),
         get_terminal_line("Always", t.get('aLways', 'N/A')),
         get_terminal_line("More Info", t.get('mOre info', 'N/A')),
+        get_terminal_line("Fav Casing", t.get('Fav Casing', 'N/A'))
     ]
     
     # Mapping for the Contact section
     contact_info = [
         get_terminal_line("Email", t.get('eMail', 'N/A')),
-        get_terminal_line("Discord", t.get('discord', 'N/A')),
+        # get_terminal_line("Discord", t.get('discord', 'N/A')),
     ]
 
-    # Keeping your GitHub Stats logic consistent
+    # made the stats section multi-colored using diff syntax highlighting
     stats_section = (
-        f" . Repos:..... {data.get('repos', 0)} {{Contributed: {data.get('contributed', 0)}}} | "
+        f"+ Repos:..... {data.get('repos', 0)} {{Contributed (this year): {data.get('contributed', 0)}}} | "
         f"Stars:.......... {data.get('stars', 0)}\n"
-        f" . Commits:................ {data.get('commits', 0):,} | "
+        f"+ Commits:................ {data.get('commits', 0):,} | "
         f"Followers:....... {data.get('followers', 0)}\n"
-        f" . Lines of Code: .... {data.get('loc', 0):,} (Estimated)"
+        f"- Lines of Code: .... {data.get('loc', 0):,} (Estimated)" # '-' makes this line RED
     )
 
     # Load Template
