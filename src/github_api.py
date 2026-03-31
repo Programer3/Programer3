@@ -18,7 +18,7 @@ TERMINAL_CONFIG = {
     "hObbies": "Lerning, Open Source, Gaming",
     "eMail": "amankmcs@gmail.com",
     "aLways": "Curious about new tech and open source projects",
-    "mOre info": "👈 On the left side of screen"
+    "mOre info": "👈 On the left side of screen",
     "Fav Casing": "Obviously Pascal then camelCase, look 👆"
 }
 
