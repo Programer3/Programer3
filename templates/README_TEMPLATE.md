@@ -1,12 +1,12 @@
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=800&height=200&pause=2000&backgroundOpacity=0&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Welcome+to+My+Github%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A56%2C%22typingSpeed%22%3A0.125%2C%22fontWeight%22%3A%22600%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
-<pre>                                                               
+<!-- <pre>                                                               
                                                                
 █████▄ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄   ▄▄ ▄▄▄▄▄ ▄▄▄▄  ████▄ 
 ██▄▄█▀ ██▄█▄ ██▀██ ██ ▄▄ ██▄█▄ ██▀██ ██▀▄▀██ ██▄▄  ██▄█▄  ▄▄██ 
 ██     ██ ██ ▀███▀ ▀███▀ ██ ██ ██▀██ ██   ██ ██▄▄▄ ██ ██ ▄▄▄█▀ 
-                                                               </pre>
+                                                               </pre> -->
 
 - 🔭 I’m currently working on [Secret Project]()
 
@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I ❤️ Open Souce**
 
 ```diff
-+programer3@github -----------------------------------------------------------
+programer3@github -----------------------------------------------------------
 {terminal_info}
 
 - Contact --------------------------------------------------------------------

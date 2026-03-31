@@ -17,7 +17,7 @@ def format_starred_repos(starred_list, limit=5):
         name = repo.get("full_name")
         url = repo.get("html_url")
         desc = repo.get("description") or "No description."
-        items.append(f"- [{name}]({url}) - {desc}")
+        items.append(f"+ [{name}]({url}) - {desc}")
     
     return "\n".join(items)
 
