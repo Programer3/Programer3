@@ -24,55 +24,49 @@ def format_starred_repos(starred_list, limit=5):
     return "\n".join(items)
 
 def generate_readme(data):
-    """
-    Combines all data into the terminal-style template.
-    Expects a dictionary containing 'terminal', 'repos', 'stars', etc.
-    """
-    # 1. Prepare Terminal Info Section
-    t = data['terminal']
+    # Use .get() to access the terminal dictionary safely
+    t = data.get('terminal', {})
+    
+    # Mapping exactly to your specific mixed-case keys
     terminal_info = [
-        get_terminal_line("OS", t['os']),
-        get_terminal_line("Uptime", t['uptime']),
-        get_terminal_line("Kernel", t['kernel']),
-        get_terminal_line("IDE", t['ide']),
-        get_terminal_line("Languages.Prog", t['languages_prog']),
-        get_terminal_line("Languages.Real", t['languages_spoken']),
-        get_terminal_line("Hobbies", t['hobbies']),
+        get_terminal_line("OS", t.get('oS', 'N/A')),
+        get_terminal_line("Uptime", t.get('uPtime', 'N/A')),
+        get_terminal_line("Kernel", t.get('kernel', 'N/A')),
+        get_terminal_line("IDE", t.get('iDe', 'N/A')),
+        get_terminal_line("Languages.Prog", t.get('languages_prog', 'N/A')),
+        get_terminal_line("Languages.Real", t.get('languages_spoken', 'N/A')),
+        get_terminal_line("Hobbies", t.get('hObbies', 'N/A')),
+        get_terminal_line("Always", t.get('aLways', 'N/A')),
+        get_terminal_line("More Info", t.get('mOre info', 'N/A')),
     ]
     
-    # 2. Prepare Contact Section
+    # Mapping for the Contact section
     contact_info = [
-        get_terminal_line("Email", t['email']),
-        get_terminal_line("Discord", t['discord']),
+        get_terminal_line("Email", t.get('eMail', 'N/A')),
+        get_terminal_line("Discord", t.get('discord', 'N/A')),
     ]
 
-    # 3. Prepare GitHub Stats Section
-    # Matches the look: 'Repos: .... 47 {Contributed: 90} | Stars: ...... 129'
+    # Keeping your GitHub Stats logic consistent
     stats_section = (
-        f" . Repos:..... {data['repos']} {{Contributed: {data['contributed']}}} | "
-        f"Stars:.......... {data['stars']}\n"
-        f" . Commits:................ {data['commits']:,} | "
-        f"Followers:....... {data['followers']}\n"
-        f" . Lines of Code: .... {data['loc']:,} (Estimated)"
+        f" . Repos:..... {data.get('repos', 0)} {{Contributed: {data.get('contributed', 0)}}} | "
+        f"Stars:.......... {data.get('stars', 0)}\n"
+        f" . Commits:................ {data.get('commits', 0):,} | "
+        f"Followers:....... {data.get('followers', 0)}\n"
+        f" . Lines of Code: .... {data.get('loc', 0):,} (Estimated)"
     )
 
-    # 4. Load Template
-    template_path = "templates/README_TEMPLATE.md"
-    if not os.path.exists(template_path):
-        raise FileNotFoundError(f"Could not find {template_path}")
-
-    with open(template_path, "r", encoding="utf-8") as f:
+    # Load Template
+    with open("templates/README_TEMPLATE.md", "r", encoding="utf-8") as f:
         template = f.read()
 
-    # 5. Inject Data
+    # Injecting all the formatted strings into the template
     final_content = template.format(
         terminal_info="\n".join(terminal_info),
         contact_info="\n".join(contact_info),
         github_stats=stats_section,
-        recent_stars=format_starred_repos(data['recent_stars']),
+        recent_stars=format_starred_repos(data.get('recent_stars', [])),
         last_updated=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     )
 
-    # 6. Save to root
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(final_content)
