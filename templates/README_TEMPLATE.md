@@ -43,6 +43,5 @@ programer3@github -----------------------------------------------------------
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="programer3" width="150" height="25" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="programer3" />
 <img src="https://forthebadge.com/badges/uses-git.svg" alt="programer3" width="100" height="25" />
-<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="programer3" width="160" height="30" />
 <img src="https://forthebadge.com/badges/built-with-love.svg" alt="programer3" width="150" height="30" />
 </p>
