@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 29 {Contributed (this year): 0} | Stars:.......... 23
-+ Commits:................ 46 | Followers:....... 67
-- Lines of Code: .... 173,066 (Estimated)
++ Commits:................ 49 | Followers:....... 67
+- Lines of Code: .... 180,008 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [ChrisTitusTech/ChrisTitusTech](https://github.com/ChrisTitusTech/ChrisTitusTech) - No description.
-+ [blinkdisk/blinkdisk](https://github.com/blinkdisk/blinkdisk) - 💾 The easiest way to backup your files.
-+ [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-+ [Nako0/devglobe-extension](https://github.com/Nako0/devglobe-extension) - Official IDE extensions for DevGlobe ! All improvements are welcome
-+ [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal 
++ [tekunotri/technohud](https://github.com/tekunotri/technohud) - an attempt at a hud made from scratch
++ [SolarLightTF2/solarlighthud-redux](https://github.com/SolarLightTF2/solarlighthud-redux) - A fresh, new version of SolarLightHUD. Sometimes draws inspiration from the editing style, and sometimes does the other way round.
++ [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
++ [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
++ [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
-// Last update: 2026-04-02 02:45 UTC
+// Last update: 2026-04-03 02:48 UTC
 ```
 
 <p>
@@ -57,6 +57,5 @@ programer3@github -----------------------------------------------------------
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="programer3" width="150" height="25" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="programer3" />
 <img src="https://forthebadge.com/badges/uses-git.svg" alt="programer3" width="100" height="25" />
-<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="programer3" width="160" height="30" />
 <img src="https://forthebadge.com/badges/built-with-love.svg" alt="programer3" width="150" height="30" />
 </p>
