@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 29 {Contributed (this year): 0} | Stars:.......... 23
-+ Commits:................ 49 | Followers:....... 67
++ Commits:................ 49 | Followers:....... 68
 - Lines of Code: .... 180,008 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [tekunotri/technohud](https://github.com/tekunotri/technohud) - an attempt at a hud made from scratch
-+ [SolarLightTF2/solarlighthud-redux](https://github.com/SolarLightTF2/solarlighthud-redux) - A fresh, new version of SolarLightHUD. Sometimes draws inspiration from the editing style, and sometimes does the other way round.
-+ [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-+ [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
-+ [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
++ [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
++ [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) - 🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts. 
++ [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
++ [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) -  :video_game: :game_die: A wonderful list of Game Development resources.
++ [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 
-// Last update: 2026-04-03 02:48 UTC
+// Last update: 2026-04-04 02:38 UTC
 ```
 
 <p>
