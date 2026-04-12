@@ -38,18 +38,18 @@ programer3@github -----------------------------------------------------------
 + Email:............... amankmcs@gmail.com
 
 - GitHub Stats ---------------------------------------------------------------
-+ Repos:..... 29 {Contributed (this year): 0} | Stars:.......... 23
-+ Commits:................ 50 | Followers:....... 68
-- Lines of Code: .... 180,008 (Estimated)
++ Repos:..... 30 {Contributed (this year): 0} | Stars:.......... 23
++ Commits:................ 52 | Followers:....... 68
+- Lines of Code: .... 181,317 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [MathItYT/mathlikeanim-rs](https://github.com/MathItYT/mathlikeanim-rs) - A Rust library to create interactive mathematical animations
++ [yongkyuns/noon](https://github.com/yongkyuns/noon) - Animation engine inspired by manim, written in Rust
++ [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
++ [rosadiaznewyork/video-finder-algorithm](https://github.com/rosadiaznewyork/video-finder-algorithm) - No description.
 + [FudanCVL/PSDesigner](https://github.com/FudanCVL/PSDesigner) - [CVPR 2026] PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow
-+ [ByteVisionLab/DreamLite](https://github.com/ByteVisionLab/DreamLite) - 🔥 Official impl. of "DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing".
-+ [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through) - "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026, Conditionally Accepted)
-+ [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT) - No description.
-+ [tulerfeng/Gen-Searcher](https://github.com/tulerfeng/Gen-Searcher) - Gen-Searcher: Reinforcing Agentic Search for Image Generation
 
-// Last update: 2026-04-11 02:42 UTC
+// Last update: 2026-04-12 03:21 UTC
 ```
 
 <p>
