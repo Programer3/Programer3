@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 181,317 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [EasonXiao-888/SpatialEdit](https://github.com/EasonXiao-888/SpatialEdit) - [Official Repo] SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing
++ [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) - KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% faster decode, 5.3x faster prefill, 44x fewer params. Drop-in llama.cpp integration.
 + [MathItYT/mathlikeanim-rs](https://github.com/MathItYT/mathlikeanim-rs) - A Rust library to create interactive mathematical animations
 + [yongkyuns/noon](https://github.com/yongkyuns/noon) - Animation engine inspired by manim, written in Rust
 + [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
-+ [rosadiaznewyork/video-finder-algorithm](https://github.com/rosadiaznewyork/video-finder-algorithm) - No description.
-+ [FudanCVL/PSDesigner](https://github.com/FudanCVL/PSDesigner) - [CVPR 2026] PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow
 
-// Last update: 2026-04-13 03:27 UTC
+// Last update: 2026-04-14 03:18 UTC
 ```
 
 <p>
