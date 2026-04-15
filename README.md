@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 181,317 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [EasonXiao-888/SpatialEdit](https://github.com/EasonXiao-888/SpatialEdit) - [Official Repo] SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing
-+ [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) - KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% faster decode, 5.3x faster prefill, 44x fewer params. Drop-in llama.cpp integration.
-+ [MathItYT/mathlikeanim-rs](https://github.com/MathItYT/mathlikeanim-rs) - A Rust library to create interactive mathematical animations
-+ [yongkyuns/noon](https://github.com/yongkyuns/noon) - Animation engine inspired by manim, written in Rust
-+ [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
++ [JamesNyeVRGuy/CorridorKey-Cloud](https://github.com/JamesNyeVRGuy/CorridorKey-Cloud) - Perfect Green Screen Keys - In the Cloud!
++ [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
++ [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) - Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.
++ [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey) - Perfect Green Screen Keys made EZ!
++ [purzbeats/lora_tester](https://github.com/purzbeats/lora_tester) - Batch LoRA strength tester and comparison gallery for ComfyUI
 
-// Last update: 2026-04-14 03:18 UTC
+// Last update: 2026-04-15 02:57 UTC
 ```
 
 <p>
