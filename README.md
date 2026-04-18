@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 185,725 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [ilovepdf/ilovepdf-php](https://github.com/ilovepdf/ilovepdf-php) - iLovePDF Rest Api - PHP Library (https://developer.ilovepdf.com)
++ [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
++ [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 + [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
 + [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-+ [JamesNyeVRGuy/CorridorKey-Cloud](https://github.com/JamesNyeVRGuy/CorridorKey-Cloud) - Perfect Green Screen Keys - In the Cloud!
-+ [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
-+ [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) - Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.
 
-// Last update: 2026-04-17 03:19 UTC
+// Last update: 2026-04-18 02:51 UTC
 ```
 
 <p>
