@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 185,725 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [ModdingTF2/tf2-nosmoke](https://github.com/ModdingTF2/tf2-nosmoke) - Team Fortress 2 - No Explosion Smoke
 + [ilovepdf/ilovepdf-php](https://github.com/ilovepdf/ilovepdf-php) - iLovePDF Rest Api - PHP Library (https://developer.ilovepdf.com)
 + [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 + [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 + [FedoraQt/MediaWriter](https://github.com/FedoraQt/MediaWriter) - Fedora Media Writer - Write Fedora Images to Portable Media
-+ [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
-// Last update: 2026-04-19 03:26 UTC
+// Last update: 2026-04-20 03:28 UTC
 ```
 
 <p>
