@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 185,725 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
-+ [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
-+ [RedDot-3ND7355/MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX) - MPO Fix for 5000/6000/7000/9000 AMD GPUs & RTX 2000/3000/4000/5000/GTX 1600
-+ [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-+ [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
++ [ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool) - A powerful, all-in-one Windows maintenance toolkit built entirely in Batch & PowerShell. Designed for power users, sysadmins, and curious tinkerers – now smarter, safer, and fully offline-compatible.
++ [oop7/YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.
++ [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
++ [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
++ [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 
-// Last update: 2026-04-28 03:39 UTC
+// Last update: 2026-04-29 03:38 UTC
 ```
 
 <p>
