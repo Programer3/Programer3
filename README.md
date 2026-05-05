@@ -38,18 +38,18 @@ programer3@github -----------------------------------------------------------
 + Email:............... amankmcs@gmail.com
 
 - GitHub Stats ---------------------------------------------------------------
-+ Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 23
++ Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
 + Commits:................ 66 | Followers:....... 69
 - Lines of Code: .... 188,682 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [matrix-org/matrix.to](https://github.com/matrix-org/matrix.to) - A simple stateless privacy-protecting URL redirecting service for Matrix
-+ [mvmike/min-cal-widget](https://github.com/mvmike/min-cal-widget) - Minimal calendar widget
-+ [librity/firefox-extension-yandex-search](https://github.com/librity/firefox-extension-yandex-search) - A web extension for Yandex search.
-+ [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
-+ [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
++ [Programer3/total-tabs-exporter](https://github.com/Programer3/total-tabs-exporter) - No description.
++ [codse/animata](https://github.com/codse/animata) - Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. 
++ [pixel-point/pixelpoint-website](https://github.com/pixel-point/pixelpoint-website) - Design and development of JAMStack-based marketing websites
++ [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
++ [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 
-// Last update: 2026-05-04 03:41 UTC
+// Last update: 2026-05-05 03:27 UTC
 ```
 
 <p>
