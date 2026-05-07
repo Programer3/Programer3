@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [RefactoringGuru/design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java) - Design Pattern Examples in Java
++ [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
++ [rage/java-programming](https://github.com/rage/java-programming) - No description.
++ [midudev/alg0.dev](https://github.com/midudev/alg0.dev) - alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code.
 + [dichharai/coding-musings](https://github.com/dichharai/coding-musings) - Things I write I think are muse to me.
-+ [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-+ [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
-+ [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
-+ [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 
-// Last update: 2026-05-06 03:38 UTC
+// Last update: 2026-05-07 03:38 UTC
 ```
 
 <p>
