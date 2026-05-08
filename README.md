@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 70
++ Commits:................ 70 | Followers:....... 71
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
++ [root4loot/rescope](https://github.com/root4loot/rescope) - Bugbounty scope tool
++ [piyushgarg-dev/tally-erp-skill](https://github.com/piyushgarg-dev/tally-erp-skill) - No description.
++ [hehao98/StarScout](https://github.com/hehao98/StarScout) - Find suspicious (and possibly faked) GitHub stars at-scale
 + [RefactoringGuru/design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java) - Design Pattern Examples in Java
-+ [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-+ [rage/java-programming](https://github.com/rage/java-programming) - No description.
-+ [midudev/alg0.dev](https://github.com/midudev/alg0.dev) - alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code.
-+ [dichharai/coding-musings](https://github.com/dichharai/coding-musings) - Things I write I think are muse to me.
 
-// Last update: 2026-05-07 03:38 UTC
+// Last update: 2026-05-08 03:33 UTC
 ```
 
 <p>
