@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [Phhofm/models](https://github.com/Phhofm/models) - All my self trained & released AI upscaling models. After gathering and applying over 600 different upscaling models, I learned how to train my own models, and these are the results.
++ [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 + [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 + [root4loot/rescope](https://github.com/root4loot/rescope) - Bugbounty scope tool
 + [piyushgarg-dev/tally-erp-skill](https://github.com/piyushgarg-dev/tally-erp-skill) - No description.
-+ [hehao98/StarScout](https://github.com/hehao98/StarScout) - Find suspicious (and possibly faked) GitHub stars at-scale
-+ [RefactoringGuru/design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java) - Design Pattern Examples in Java
 
-// Last update: 2026-05-08 03:33 UTC
+// Last update: 2026-05-09 03:32 UTC
 ```
 
 <p>
