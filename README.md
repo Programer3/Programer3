@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 71
++ Commits:................ 70 | Followers:....... 70
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 + [Phhofm/models](https://github.com/Phhofm/models) - All my self trained & released AI upscaling models. After gathering and applying over 600 different upscaling models, I learned how to train my own models, and these are the results.
 + [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 + [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 + [root4loot/rescope](https://github.com/root4loot/rescope) - Bugbounty scope tool
-+ [piyushgarg-dev/tally-erp-skill](https://github.com/piyushgarg-dev/tally-erp-skill) - No description.
 
-// Last update: 2026-05-09 03:32 UTC
+// Last update: 2026-05-10 03:47 UTC
 ```
 
 <p>
