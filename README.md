@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 70
++ Commits:................ 70 | Followers:....... 71
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-+ [Phhofm/models](https://github.com/Phhofm/models) - All my self trained & released AI upscaling models. After gathering and applying over 600 different upscaling models, I learned how to train my own models, and these are the results.
-+ [willmiao/ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
-+ [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
-+ [root4loot/rescope](https://github.com/root4loot/rescope) - Bugbounty scope tool
++ [WhatDreamsCost/Spline-Path-Control](https://github.com/WhatDreamsCost/Spline-Path-Control) - Create shapes that follow a spline path. Import background image, edit splines, and export for use in VACE.
++ [AHEKOT/ComfyUI_VNCCS_Utils](https://github.com/AHEKOT/ComfyUI_VNCCS_Utils) - A collection of utility nodes from the VNCCS project that are useful not only for the project's primary goals but also for everyday ComfyUI workflows.
++ [amrrs/qwenmultiangle](https://github.com/amrrs/qwenmultiangle) - Qwen Multi Angle UI powered by fal.ai API
++ [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
++ [HKUST-LongGroup/SwiftI2V](https://github.com/HKUST-LongGroup/SwiftI2V) - [arXiv 2026] Project page for paper "SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation"
 
-// Last update: 2026-05-10 03:47 UTC
+// Last update: 2026-05-11 03:59 UTC
 ```
 
 <p>
