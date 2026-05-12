@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [WhatDreamsCost/Spline-Path-Control](https://github.com/WhatDreamsCost/Spline-Path-Control) - Create shapes that follow a spline path. Import background image, edit splines, and export for use in VACE.
-+ [AHEKOT/ComfyUI_VNCCS_Utils](https://github.com/AHEKOT/ComfyUI_VNCCS_Utils) - A collection of utility nodes from the VNCCS project that are useful not only for the project's primary goals but also for everyday ComfyUI workflows.
-+ [amrrs/qwenmultiangle](https://github.com/amrrs/qwenmultiangle) - Qwen Multi Angle UI powered by fal.ai API
-+ [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
-+ [HKUST-LongGroup/SwiftI2V](https://github.com/HKUST-LongGroup/SwiftI2V) - [arXiv 2026] Project page for paper "SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation"
++ [zed-extensions/material-icon-theme](https://github.com/zed-extensions/material-icon-theme) - Material Design icons for Zed
++ [SanjulaGanepola/github-local-actions](https://github.com/SanjulaGanepola/github-local-actions) - ✨ Run your GitHub Actions locally in VS Code!
++ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
++ [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
++ [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 
-// Last update: 2026-05-11 03:59 UTC
+// Last update: 2026-05-12 03:41 UTC
 ```
 
 <p>
