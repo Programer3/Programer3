@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [pixaroma/pixaroma-workflows](https://github.com/pixaroma/pixaroma-workflows) - Comfy UI workflows from Pixaroma YouTube channel, episode backups.
-+ [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-+ [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
-+ [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-+ [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and mockups in seconds, directly in your browser
++ [soongenwong/claudecode](https://github.com/soongenwong/claudecode) - Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free. 
++ [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
++ [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
++ [ffeast/samplelib](https://github.com/ffeast/samplelib) - Sample files in different formats
++ [voxserv/audio_quality_testing_samples](https://github.com/voxserv/audio_quality_testing_samples) - Human speech samples for audio quality measurements
 
-// Last update: 2026-05-18 04:08 UTC
+// Last update: 2026-05-19 04:01 UTC
 ```
 
 <p>
