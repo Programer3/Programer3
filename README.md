@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 71
++ Commits:................ 70 | Followers:....... 72
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
++ [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
++ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 + [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 + [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-+ [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
-+ [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
-+ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 
-// Last update: 2026-05-22 04:05 UTC
+// Last update: 2026-05-23 03:43 UTC
 ```
 
 <p>
