@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker) - Read Medium content without limit!
-+ [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free
-+ [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-+ [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-+ [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
++ [51bitquant/howtrader](https://github.com/51bitquant/howtrader) - Howtrader: A crypto quant framework for developing, backtesting, and executing your own trading strategies. Seamlessly integrates with TradingView and other third-party signals. Simply send a post request to automate trading and order placement. Supports Binance and Okex exchanges.
++ [PyPatel/Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python) - Developing Options Trading Strategies using Technical Indicators and Quantitative Methods
++ [0xemmkty/QuantMuse](https://github.com/0xemmkty/QuantMuse) - A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management
++ [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing
++ [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
 
-// Last update: 2026-05-24 04:05 UTC
+// Last update: 2026-05-25 04:16 UTC
 ```
 
 <p>
