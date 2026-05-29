@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 71
++ Commits:................ 70 | Followers:....... 72
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [51bitquant/howtrader](https://github.com/51bitquant/howtrader) - Howtrader: A crypto quant framework for developing, backtesting, and executing your own trading strategies. Seamlessly integrates with TradingView and other third-party signals. Simply send a post request to automate trading and order placement. Supports Binance and Okex exchanges.
-+ [PyPatel/Options-Trading-Strategies-in-Python](https://github.com/PyPatel/Options-Trading-Strategies-in-Python) - Developing Options Trading Strategies using Technical Indicators and Quantitative Methods
-+ [0xemmkty/QuantMuse](https://github.com/0xemmkty/QuantMuse) - A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management
-+ [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing
-+ [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
++ [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
++ [ThioJoe/Thio-Universal-Agent](https://github.com/ThioJoe/Thio-Universal-Agent) - Let AI control anything on your computer through GUI interaction. All in one Exe, no install required.
++ [alexcong/ComfyUI_QwenVL](https://github.com/alexcong/ComfyUI_QwenVL) - ComfyUI QwenVL and Qwen wrapper
++ [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
++ [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 
-// Last update: 2026-05-28 04:04 UTC
+// Last update: 2026-05-29 04:06 UTC
 ```
 
 <p>
