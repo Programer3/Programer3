@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
-+ [ThioJoe/Thio-Universal-Agent](https://github.com/ThioJoe/Thio-Universal-Agent) - Let AI control anything on your computer through GUI interaction. All in one Exe, no install required.
-+ [alexcong/ComfyUI_QwenVL](https://github.com/alexcong/ComfyUI_QwenVL) - ComfyUI QwenVL and Qwen wrapper
-+ [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
-+ [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
++ [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
++ [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
++ [qskousen/ggufy](https://github.com/qskousen/ggufy) - CLI/GUI tool for efficient and easy safetensors and gguf model conversion
++ [r-vage/ComfyUI_Eclipse](https://github.com/r-vage/ComfyUI_Eclipse) - Comprehensive ComfyUI custom node suite featuring Smart Loaders (multi-format checkpoint support with Nunchaku/GGUF quantization), Smart Prompt system with wildcards, sophisticated pipe ecosystem, universal type converters, image/video utilities, and workflow helpers.
++ [HiDream-ai/HiDream-O1-Image](https://github.com/HiDream-ai/HiDream-O1-Image) - No description.
 
-// Last update: 2026-05-29 04:06 UTC
+// Last update: 2026-05-30 03:53 UTC
 ```
 
 <p>
