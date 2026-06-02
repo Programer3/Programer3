@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [CodeWithHarry/The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry 
++ [CodeWithHarry/The-Ultimate-Python-Course](https://github.com/CodeWithHarry/The-Ultimate-Python-Course) - Source code and all the details for the Ultimate Python Course on CodeWithHarry channel
++ [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
 + [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 + [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-+ [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-+ [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-+ [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 
-// Last update: 2026-06-01 04:46 UTC
+// Last update: 2026-06-02 04:25 UTC
 ```
 
 <p>
