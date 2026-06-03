@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [shootthesound/comfyUI-Realtime-Lora](https://github.com/shootthesound/comfyUI-Realtime-Lora) - Train and block edit and save  LoRAs directly inside ComfyUI for Z-image, Flux Klein, SDXL, Flux, WAN 2.2, SD 1.5
 + [CodeWithHarry/The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry 
 + [CodeWithHarry/The-Ultimate-Python-Course](https://github.com/CodeWithHarry/The-Ultimate-Python-Course) - Source code and all the details for the Ultimate Python Course on CodeWithHarry channel
 + [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
 + [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
-+ [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-// Last update: 2026-06-02 04:25 UTC
+// Last update: 2026-06-03 04:45 UTC
 ```
 
 <p>
