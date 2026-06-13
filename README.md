@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 73
++ Commits:................ 70 | Followers:....... 74
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
-+ [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-+ [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-+ [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR! 
-+ [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
++ [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
++ [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
++ [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
++ [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
++ [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
 
-// Last update: 2026-06-12 04:26 UTC
+// Last update: 2026-06-13 04:14 UTC
 ```
 
 <p>
