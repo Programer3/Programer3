@@ -38,18 +38,18 @@ programer3@github -----------------------------------------------------------
 + Email:............... amankmcs@gmail.com
 
 - GitHub Stats ---------------------------------------------------------------
-+ Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 24
-+ Commits:................ 70 | Followers:....... 74
++ Repos:..... 38 {Contributed (this year): 0} | Stars:.......... 25
++ Commits:................ 70 | Followers:....... 75
 - Lines of Code: .... 188,760 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - No description.
 + [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 + [alistaitsacle/free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 + [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-+ [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - The security layer for AI coding agents : Skill governance, safe package recommendations, MCP/tools guardrails, secret protection, runtime policy enforcement and full audit visibility with a self-serve dashboard.
-+ [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
++ [PrismorSec/immunity-agent](https://github.com/PrismorSec/immunity-agent) - Self improving security layer for AI coding agents : Safe package recommendations, Secret protection, MCP/tools guardrails, Skill governance, runtime policy enforcement and full audit visibility with a self-serve dashboard.
 
-// Last update: 2026-06-15 04:56 UTC
+// Last update: 2026-06-16 04:54 UTC
 ```
 
 <p>
