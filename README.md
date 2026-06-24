@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Programer3?tab=repositories&type=source)
 
-- 📄 Know about my Journey and skills [https://programer3.github.io/](https://programer3.github.io/)
+- 📄 Know about my Journey and skills [https://programer3.github.io/staticfolio/](https://programer3.github.io/staticfolio/)
 
 - ⚡ Fun fact **I ❤️ Open Souce**
 
