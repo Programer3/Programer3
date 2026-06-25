@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Programer3?tab=repositories&type=source)
 
-- 📄 Know about my Journey and skills [https://programer3.github.io/staticfolio/](https://programer3.github.io/staticfolio/)
+- 📄 Know about my Journey and skills [https://programer3.github.io/](https://programer3.github.io/)
 
 - ⚡ Fun fact **I ❤️ Open Souce**
 
@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 72 | Followers:....... 74
-- Lines of Code: .... 195,060 (Estimated)
++ Commits:................ 81 | Followers:....... 75
+- Lines of Code: .... 194,653 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [odb/official-bash-logo](https://github.com/odb/official-bash-logo) - Everything you need to start using the official GNU Bash logo
++ [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 + [yandex/yaff](https://github.com/yandex/yaff) - YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the Protobuf ecosystem.
 + [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 + [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-+ [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-+ [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
 
-// Last update: 2026-06-24 04:01 UTC
+// Last update: 2026-06-25 04:01 UTC
 ```
 
 <p>
