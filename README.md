@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 97 | Followers:....... 76
++ Commits:................ 93 | Followers:....... 76
 - Lines of Code: .... 194,653 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [clayallsopp/graphqlhub](https://github.com/clayallsopp/graphqlhub) - The GraphQLHub Server
-+ [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
-+ [klpod221/devtoolkit](https://github.com/klpod221/devtoolkit) - // A collection of tools for developers
-+ [Amanbh997/Skills-Architects](https://github.com/Amanbh997/Skills-Architects) - No description.
-+ [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
++ [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
++ [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
++ [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
++ [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
++ [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 
-// Last update: 2026-06-28 04:16 UTC
+// Last update: 2026-06-29 04:23 UTC
 ```
 
 <p>
