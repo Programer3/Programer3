@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 91 | Followers:....... 75
++ Commits:................ 91 | Followers:....... 76
 - Lines of Code: .... 194,653 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
-+ [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
-+ [jangles-byte/Pythia](https://github.com/jangles-byte/Pythia) - One local API call gives your agent the entire live state of the planet — every major world event at once, plus forecasts. 30+ free keyless feeds, runs entirely on Ollama. No cloud, no cost.  Keyless live feeds into one global view and forecasts what’s likely next. No cloud, no keys, no cost.  1d,1w,1m,1y predictions by Mirofish.
-+ [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-+ [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
++ [flutter/skills](https://github.com/flutter/skills) - No description.
++ [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Claude Code skill for handling long-context tasks through recursive decomposition
++ [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - AutoPR autonomously wrote pull requests in response to issues
++ [muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) - Hand-drawn diagram skill for Claude Code and Codex. Generates monochrome architecture, workflow, and UX blueprint diagrams as PNGs.
++ [coderabbitai/skills](https://github.com/coderabbitai/skills) - No description.
 
-// Last update: 2026-07-06 04:00 UTC
+// Last update: 2026-07-07 03:51 UTC
 ```
 
 <p>
