@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 96 | Followers:....... 76
++ Commits:................ 96 | Followers:....... 77
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
-+ [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-+ [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
-+ [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
-+ [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) -  ggml speech-to-text inference for 16+ model families
++ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
++ [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
++ [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
++ [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
++ [turnstonelabs/turnstone](https://github.com/turnstonelabs/turnstone) - No description.
 
-// Last update: 2026-07-21 03:15 UTC
+// Last update: 2026-07-22 03:13 UTC
 ```
 
 <p>
