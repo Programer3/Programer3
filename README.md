@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 + [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 + [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 + [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 + [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-+ [turnstonelabs/turnstone](https://github.com/turnstonelabs/turnstone) - No description.
 
-// Last update: 2026-07-24 03:14 UTC
+// Last update: 2026-07-25 03:12 UTC
 ```
 
 <p>
