@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 96 | Followers:....... 76
++ Commits:................ 96 | Followers:....... 75
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
-+ [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
-+ [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
-+ [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
-+ [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
++ [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
++ [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
++ [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
++ [vudovn/ag-kit](https://github.com/vudovn/ag-kit) - No description.
++ [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 
-// Last update: 2026-07-28 02:51 UTC
+// Last update: 2026-07-29 03:10 UTC
 ```
 
 <p>
