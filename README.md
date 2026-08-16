@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 96 | Followers:....... 74
++ Commits:................ 96 | Followers:....... 75
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-+ [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-+ [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
-+ [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
-+ [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
++ [ChoiceTheorem/ChoiceTheorem-s-overhauled-village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
++ [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) - A multi-instrument music transcription model developed by Kyutai and Mirelo.
++ [yaoyao-jpg/PhiZero](https://github.com/yaoyao-jpg/PhiZero) - Official implementation of PhiZero: A World Model Built Around Physical Language. Code and checkpoints coming soon.
++ [AMD-AGI/Instella-MoE](https://github.com/AMD-AGI/Instella-MoE) - Instella MoE is a fully open state-of-the-art Mixture-of-Experts language model, trained end-to-end on AMD Instinct™ GPUs.
++ [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
-// Last update: 2026-08-15 01:26 UTC
+// Last update: 2026-08-16 01:38 UTC
 ```
 
 <p>
