@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 25
-+ Commits:................ 96 | Followers:....... 75
++ Commits:................ 96 | Followers:....... 74
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
++ [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - No description.
++ [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation
++ [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
 + [ChoiceTheorem/ChoiceTheorem-s-overhauled-village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
-+ [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) - A multi-instrument music transcription model developed by Kyutai and Mirelo.
-+ [yaoyao-jpg/PhiZero](https://github.com/yaoyao-jpg/PhiZero) - Official implementation of PhiZero: A World Model Built Around Physical Language. Code and checkpoints coming soon.
-+ [AMD-AGI/Instella-MoE](https://github.com/AMD-AGI/Instella-MoE) - Instella MoE is a fully open state-of-the-art Mixture-of-Experts language model, trained end-to-end on AMD Instinct™ GPUs.
-+ [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
-// Last update: 2026-08-16 01:38 UTC
+// Last update: 2026-08-17 01:36 UTC
 ```
 
 <p>
