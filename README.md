@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) - google maps for block game
 + [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 + [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - No description.
 + [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation
 + [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
-+ [ChoiceTheorem/ChoiceTheorem-s-overhauled-village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
 
-// Last update: 2026-08-19 01:34 UTC
+// Last update: 2026-08-20 01:26 UTC
 ```
 
 <p>
