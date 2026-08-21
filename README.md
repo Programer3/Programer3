@@ -49,7 +49,7 @@ programer3@github -----------------------------------------------------------
 + [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation
 + [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
 
-// Last update: 2026-08-20 01:26 UTC
+// Last update: 2026-08-21 01:37 UTC
 ```
 
 <p>
