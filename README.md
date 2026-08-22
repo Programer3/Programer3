@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [GreenJAB/nekomas-fixed](https://github.com/GreenJAB/nekomas-fixed) - Ideas from the Youtuber Nekoma
++ [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 + [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) - google maps for block game
 + [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-+ [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - No description.
-+ [TencentARC/SCoPE](https://github.com/TencentARC/SCoPE) - SCoPE: Sightline-Coordinate Positional Encoding for 3D-Aware Video Generation
-+ [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
++ [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - WorldClaw: Agentic 3D Open-world Generation at Scale
 
-// Last update: 2026-08-21 01:37 UTC
+// Last update: 2026-08-22 01:26 UTC
 ```
 
 <p>
