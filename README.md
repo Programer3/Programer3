@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 + [GreenJAB/nekomas-fixed](https://github.com/GreenJAB/nekomas-fixed) - Ideas from the Youtuber Nekoma
 + [Bforartists/Bforartists](https://github.com/Bforartists/Bforartists) - Bforartists is a fork of the popular 3D software Blender, with the goal to improve the UI.
 + [MeteorDevelopment/baritone](https://github.com/MeteorDevelopment/baritone) - google maps for block game
 + [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-+ [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) - WorldClaw: Agentic 3D Open-world Generation at Scale
 
-// Last update: 2026-08-30 04:41 UTC
+// Last update: 2026-08-31 04:45 UTC
 ```
 
 <p>
