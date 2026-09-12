@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [Midrags/SFF](https://github.com/Midrags/SFF) - SteaMidra - Advanced Steam game setup and management tool featuring manifest handling, Lua integrations, LumaCore deployment, multiplayer fixes, DLC unlocking, backups, game fixes, and an easy-to-use GUI. Educational purposes only.
++ [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
++ [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
++ [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 + [imthosea/BadOptimizations](https://github.com/imthosea/BadOptimizations) - A collection of mostly micro optimizations that add up to something bigger!
-+ [armory3d/armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
-+ [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-+ [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-+ [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 
-// Last update: 2026-09-11 03:54 UTC
+// Last update: 2026-09-12 03:57 UTC
 ```
 
 <p>
