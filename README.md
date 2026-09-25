@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
++ [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 + [vorpus/performativeUI](https://github.com/vorpus/performativeUI) - No description.
 + [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 + [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
-+ [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code) - An open-source coding agent for your terminal, powered by MiniMax.
-+ [osint4all/osint4all.github.io](https://github.com/osint4all/osint4all.github.io) - GitHub version of https://start.me/p/L1rEYQ/osint4all
 
-// Last update: 2026-09-24 04:02 UTC
+// Last update: 2026-09-25 04:16 UTC
 ```
 
 <p>
