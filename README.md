@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [raketenben/statue-generator](https://github.com/raketenben/statue-generator) - No description.
-+ [bartekkx/StatueGenerator](https://github.com/bartekkx/StatueGenerator) - Tool for creating Minecraft Statues in your browser
-+ [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) - Gesture-first Android browser with Material 3 Expressive design and local privacy tools
-+ [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
-+ [vorpus/performativeUI](https://github.com/vorpus/performativeUI) - No description.
++ [IQuestLab/IQuest-Q1](https://github.com/IQuestLab/IQuest-Q1) - No description.
++ [nv-tlabs/PixelUMM](https://github.com/nv-tlabs/PixelUMM) - Encoder-Free Unified Image and Video Understanding and Generation
++ [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
++ [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
++ [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 
-// Last update: 2026-10-05 04:55 UTC
+// Last update: 2026-10-06 05:43 UTC
 ```
 
 <p>
