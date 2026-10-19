@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
-+ [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - 1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.
-+ [phosphor-icons/core](https://github.com/phosphor-icons/core) - No description.
-+ [TerminalSkills/skills](https://github.com/TerminalSkills/skills) - Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor
-+ [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
++ [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
++ [SamurAIGPT/ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) - Production-ready Next.js AI SaaS boilerplate — Google OAuth, Stripe credit billing, Prisma, MuAPI AI engine, and webhook-backed async generation out of the box. The template powering 20+ open-source AI SaaS apps. Free ShipFast / Gravity UI alternative.
++ [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) - Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma.
++ [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
++ [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 
-// Last update: 2026-10-18 03:52 UTC
+// Last update: 2026-10-19 04:01 UTC
 ```
 
 <p>
