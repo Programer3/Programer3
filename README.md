@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,033 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
-+ [SamurAIGPT/ai-saas-starter](https://github.com/SamurAIGPT/ai-saas-starter) - Production-ready Next.js AI SaaS boilerplate — Google OAuth, Stripe credit billing, Prisma, MuAPI AI engine, and webhook-backed async generation out of the box. The template powering 20+ open-source AI SaaS apps. Free ShipFast / Gravity UI alternative.
-+ [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) - Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma.
-+ [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
-+ [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
++ [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
++ [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
++ [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
++ [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
++ [calebvbi/creator-skills-samples](https://github.com/calebvbi/creator-skills-samples) - Sample SKILL.md files from CreatorSkills.co — Agent Skills for content creators (Claude, ChatGPT, Cursor)
 
-// Last update: 2026-10-19 04:01 UTC
+// Last update: 2026-10-20 04:14 UTC
 ```
 
 <p>
