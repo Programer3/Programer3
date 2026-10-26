@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,665 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [watery-desert/loading_animation_widget](https://github.com/watery-desert/loading_animation_widget) - Flutter loading animation widget.
-+ [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis) - 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
-+ [BharatCode-ai/bharatcode-desktop](https://github.com/BharatCode-ai/bharatcode-desktop) - BharatCode-branded fork of OpenCode for desktop and VS Code integration.
-+ [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-+ [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
++ [filippocalippo/StykAnimate-App](https://github.com/filippocalippo/StykAnimate-App) - Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects.
++ [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.
++ [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
++ [hi3d-official/Hi3Dv1.0](https://github.com/hi3d-official/Hi3Dv1.0) - Official Hi3D v1.0: high-resolution 3D geometry refinement built on Sparc3D. Inference code, model weights, and documentation.
++ [inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) - Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.
 
-// Last update: 2026-10-25 03:59 UTC
+// Last update: 2026-10-26 04:04 UTC
 ```
 
 <p>
