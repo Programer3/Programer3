@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 195,665 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [filippocalippo/StykAnimate-App](https://github.com/filippocalippo/StykAnimate-App) - Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects.
-+ [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.
-+ [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
-+ [hi3d-official/Hi3Dv1.0](https://github.com/hi3d-official/Hi3Dv1.0) - Official Hi3D v1.0: high-resolution 3D geometry refinement built on Sparc3D. Inference code, model weights, and documentation.
-+ [inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) - Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.
++ [google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text) - No description.
++ [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
++ [kamilstanuch/Autocrop-vertical](https://github.com/kamilstanuch/Autocrop-vertical) - Smart video converter using YOLOv8 and FFmpeg to convert horizontal video to vertical 9:16 format for social media.
++ [mutonby/openshorts](https://github.com/mutonby/openshorts) - Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents.
++ [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
-// Last update: 2026-10-26 04:04 UTC
+// Last update: 2026-10-27 04:24 UTC
 ```
 
 <p>
