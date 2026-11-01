@@ -49,7 +49,7 @@ programer3@github -----------------------------------------------------------
 + [kamilstanuch/Autocrop-vertical](https://github.com/kamilstanuch/Autocrop-vertical) - Smart video converter using YOLOv8 and FFmpeg to convert horizontal video to vertical 9:16 format for social media.
 + [mutonby/openshorts](https://github.com/mutonby/openshorts) - Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents.
 
-// Last update: 2026-10-31 04:53 UTC
+// Last update: 2026-11-01 05:18 UTC
 ```
 
 <p>
