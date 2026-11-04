@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 26
-+ Commits:................ 90 | Followers:....... 73
++ Commits:................ 90 | Followers:....... 74
 - Lines of Code: .... 195,665 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) - 200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.
++ [uizze/uizze](https://github.com/uizze/uizze) - Design skills for coding agents.
++ [designed-by-ai/skills](https://github.com/designed-by-ai/skills) - Agent skills
++ [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
 + [skillmdcreator/skillmd-examples](https://github.com/skillmdcreator/skillmd-examples) - Real-world SKILL.md examples and installation guides for Claude Code, VS Code Copilot, Cursor, and Codex. Hand-written templates for engineers, analysts, PMs, marketers, and designers.
-+ [google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text) - No description.
-+ [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-+ [kamilstanuch/Autocrop-vertical](https://github.com/kamilstanuch/Autocrop-vertical) - Smart video converter using YOLOv8 and FFmpeg to convert horizontal video to vertical 9:16 format for social media.
-+ [mutonby/openshorts](https://github.com/mutonby/openshorts) - Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU speed from $12/mo. MCP server and API for AI agents.
 
-// Last update: 2026-11-03 05:59 UTC
+// Last update: 2026-11-04 05:38 UTC
 ```
 
 <p>
