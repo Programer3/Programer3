@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 26
-+ Commits:................ 88 | Followers:....... 73
++ Commits:................ 90 | Followers:....... 73
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [Chethan616/Artefact](https://github.com/Chethan616/Artefact) - Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose.
-+ [theDreamer911/PDF_Password_Remover](https://github.com/theDreamer911/PDF_Password_Remover) - This repository is used to clear PDF Password using Python
-+ [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
-+ [vincentsch/explainroo](https://github.com/vincentsch/explainroo) - Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.
-+ [mozilla/protocol](https://github.com/mozilla/protocol) - A design system for Mozilla websites.
++ [Shuyun-Wang/MatAnyone-E](https://github.com/Shuyun-Wang/MatAnyone-E) - MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting
++ [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
++ [Linum-AI/pjit-21k](https://github.com/Linum-AI/pjit-21k) - 2B-parameter pixel-space text-to-image model (Pyramid-JiT) trained for $21K
++ [openrobokit/robokit](https://github.com/openrobokit/robokit) - A high-performance, general-purpose toolkit for versatile robotic tasks.
++ [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
 
-// Last update: 2026-11-10 06:44 UTC
+// Last update: 2026-11-11 05:30 UTC
 ```
 
 <p>
