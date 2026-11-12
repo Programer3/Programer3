@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 26
-+ Commits:................ 90 | Followers:....... 73
++ Commits:................ 90 | Followers:....... 74
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [Shuyun-Wang/MatAnyone-E](https://github.com/Shuyun-Wang/MatAnyone-E) - MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting
-+ [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
-+ [Linum-AI/pjit-21k](https://github.com/Linum-AI/pjit-21k) - 2B-parameter pixel-space text-to-image model (Pyramid-JiT) trained for $21K
-+ [openrobokit/robokit](https://github.com/openrobokit/robokit) - A high-performance, general-purpose toolkit for versatile robotic tasks.
-+ [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
++ [quanhoangindex/ascii-reveal](https://github.com/quanhoangindex/ascii-reveal) - No description.
++ [lochie/skullet](https://github.com/lochie/skullet) - Smart skeleton states
++ [benjitaylor/skills](https://github.com/benjitaylor/skills) - Skills for AI coding agents.
++ [Meerzus/cloudlet](https://github.com/Meerzus/cloudlet) - Cloudlet — React components. First: @cloudlet/toast, a notification stack that opens into an Island.
++ [kelvinkn17/skills](https://github.com/kelvinkn17/skills) - Agent skills by kelvinkn17. First up: fun-isometric, stickers that move.
 
-// Last update: 2026-11-11 05:30 UTC
+// Last update: 2026-11-12 06:36 UTC
 ```
 
 <p>
