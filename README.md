@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 26
-+ Commits:................ 90 | Followers:....... 74
++ Commits:................ 90 | Followers:....... 73
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [Leonxlnx/cook](https://github.com/Leonxlnx/cook) - Give your agent a target, a bar and time, then let it cook. An agent skill for visual builds that have to match reference images or videos.
 + [quanhoangindex/ascii-reveal](https://github.com/quanhoangindex/ascii-reveal) - No description.
 + [lochie/skullet](https://github.com/lochie/skullet) - Smart skeleton states
 + [benjitaylor/skills](https://github.com/benjitaylor/skills) - Skills for AI coding agents.
 + [Meerzus/cloudlet](https://github.com/Meerzus/cloudlet) - Cloudlet — React components. First: @cloudlet/toast, a notification stack that opens into an Island.
-+ [kelvinkn17/skills](https://github.com/kelvinkn17/skills) - Agent skills by kelvinkn17. First up: fun-isometric, stickers that move.
 
-// Last update: 2026-11-12 06:36 UTC
+// Last update: 2026-11-13 05:54 UTC
 ```
 
 <p>
