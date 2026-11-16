@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [benbishop028-arch/Horizon-Maps](https://github.com/benbishop028-arch/Horizon-Maps) - No description.
-+ [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-+ [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-+ [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
-+ [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
++ [AInVFX/ainvfx-paintaplate](https://github.com/AInVFX/ainvfx-paintaplate) - A ComfyUI node pack with its frontend for VFX plates. Paint on the first frame to erase, add or relight, and the edit carries through the shot. On a blank plate, paint your fluids like smoke and fire. Export keeps the plate’s own format and every untouched pixel.
++ [colour-science/colour-nuke](https://github.com/colour-science/colour-nuke) - Colour - Nuke
++ [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
++ [nikopueringer/CorridorKey2.0](https://github.com/nikopueringer/CorridorKey2.0) - Corridor Key 2.0 for all your green and blue screen needs
++ [opengeos/RustGIS](https://github.com/opengeos/RustGIS) - A fast, free and open-source GIS in pure Rust.
 
-// Last update: 2026-11-15 05:42 UTC
+// Last update: 2026-11-16 05:42 UTC
 ```
 
 <p>
