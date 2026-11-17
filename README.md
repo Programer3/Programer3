@@ -39,17 +39,17 @@ programer3@github -----------------------------------------------------------
 
 - GitHub Stats ---------------------------------------------------------------
 + Repos:..... 39 {Contributed (this year): 0} | Stars:.......... 26
-+ Commits:................ 90 | Followers:....... 73
++ Commits:................ 90 | Followers:....... 74
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [AInVFX/ainvfx-paintaplate](https://github.com/AInVFX/ainvfx-paintaplate) - A ComfyUI node pack with its frontend for VFX plates. Paint on the first frame to erase, add or relight, and the edit carries through the shot. On a blank plate, paint your fluids like smoke and fire. Export keeps the plate’s own format and every untouched pixel.
-+ [colour-science/colour-nuke](https://github.com/colour-science/colour-nuke) - Colour - Nuke
-+ [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
-+ [nikopueringer/CorridorKey2.0](https://github.com/nikopueringer/CorridorKey2.0) - Corridor Key 2.0 for all your green and blue screen needs
-+ [opengeos/RustGIS](https://github.com/opengeos/RustGIS) - A fast, free and open-source GIS in pure Rust.
++ [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
++ [futantan/agent-skills.md](https://github.com/futantan/agent-skills.md) - Find awesome Agent Skills
++ [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder) - Deep Skill Finder – Real Tests Real Reviews find skills that Real Work
++ [shyamtawli/devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
++ [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
-// Last update: 2026-11-16 05:42 UTC
+// Last update: 2026-11-17 07:19 UTC
 ```
 
 <p>
