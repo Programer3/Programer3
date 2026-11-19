@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
-+ [futantan/agent-skills.md](https://github.com/futantan/agent-skills.md) - Find awesome Agent Skills
-+ [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder) - Deep Skill Finder – Real Tests Real Reviews find skills that Real Work
-+ [shyamtawli/devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-+ [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
++ [sarvamai/sarvam-ai-cookbook](https://github.com/sarvamai/sarvam-ai-cookbook) - Open Source Sarvam AI Cookbook
++ [sarvamai/sarvam-mcp](https://github.com/sarvamai/sarvam-mcp) - Official Sarvam MCP server
++ [sarvamai/skills](https://github.com/sarvamai/skills) - A curated set of practical skills and examples for building AI applications using Sarvam APIs.
++ [eachlabs/skills](https://github.com/eachlabs/skills) - Give your AI coding agent creative superpowers. Generate videos, images, music, voiceovers, and more, directly from your terminal.
++ [dansugc/reverse-engineer-marketing](https://github.com/dansugc/reverse-engineer-marketing) - Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evidence-cited. CLI, MCP server and a local web app that uses your Claude Code or Codex plan.
 
-// Last update: 2026-11-18 06:44 UTC
+// Last update: 2026-11-19 06:45 UTC
 ```
 
 <p>
