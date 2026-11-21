@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [dotCooCoo/hermitstash](https://github.com/dotCooCoo/hermitstash) - Post-quantum encrypted, self-hosted file sharing. ML-KEM-1024 + P-384 hybrid crypto, zero plaintext on disk, one-command deploy. 🦀
++ [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source vector art tool written from scratch in pure Rust
++ [storytold/designcraft](https://github.com/storytold/designcraft) - DesignCraft: An open-source page and layout design editor written from scratch in pure Rust
++ [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music.  These skills can be used by any skills-compatible agent, including Claude Code, Codex CLI and OpenClaw.
 + [sarvamai/sarvam-ai-cookbook](https://github.com/sarvamai/sarvam-ai-cookbook) - Open Source Sarvam AI Cookbook
-+ [sarvamai/sarvam-mcp](https://github.com/sarvamai/sarvam-mcp) - Official Sarvam MCP server
-+ [sarvamai/skills](https://github.com/sarvamai/skills) - A curated set of practical skills and examples for building AI applications using Sarvam APIs.
-+ [eachlabs/skills](https://github.com/eachlabs/skills) - Give your AI coding agent creative superpowers. Generate videos, images, music, voiceovers, and more, directly from your terminal.
-+ [dansugc/reverse-engineer-marketing](https://github.com/dansugc/reverse-engineer-marketing) - Paste a link, get the whole marketing machine behind it: paid ads, organic social, SEO, Reddit, founders, funnel — evidence-cited. CLI, MCP server and a local web app that uses your Claude Code or Codex plan.
 
-// Last update: 2026-11-20 06:34 UTC
+// Last update: 2026-11-21 06:25 UTC
 ```
 
 <p>
