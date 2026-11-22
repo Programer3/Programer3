@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [dotCooCoo/hermitstash](https://github.com/dotCooCoo/hermitstash) - Post-quantum encrypted, self-hosted file sharing. ML-KEM-1024 + P-384 hybrid crypto, zero plaintext on disk, one-command deploy. 🦀
-+ [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source vector art tool written from scratch in pure Rust
-+ [storytold/designcraft](https://github.com/storytold/designcraft) - DesignCraft: An open-source page and layout design editor written from scratch in pure Rust
-+ [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music.  These skills can be used by any skills-compatible agent, including Claude Code, Codex CLI and OpenClaw.
-+ [sarvamai/sarvam-ai-cookbook](https://github.com/sarvamai/sarvam-ai-cookbook) - Open Source Sarvam AI Cookbook
++ [dondai44423/bladebro](https://github.com/dondai44423/bladebro) - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
++ [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
++ [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
++ [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
++ [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 
-// Last update: 2026-11-21 06:25 UTC
+// Last update: 2026-11-22 05:56 UTC
 ```
 
 <p>
