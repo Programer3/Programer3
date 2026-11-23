@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [dondai44423/bladebro](https://github.com/dondai44423/bladebro) - A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
-+ [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-+ [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
-+ [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
-+ [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
++ [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop) - No description.
++ [yfChang-cv/MAVE](https://github.com/yfChang-cv/MAVE) - MAVE: Reconstructing Editable 3D Blockouts from Film Shots
++ [Carol-lyh/Jeveration](https://github.com/Carol-lyh/Jeveration) - [arXiv] Jeveration: System One Models Now Generate. https://arxiv.org/abs/2611.24738
++ [inworld-ai/voice-isolator](https://github.com/inworld-ai/voice-isolator) - Voice isolation — separating clean speech from background noise and mixed audio.
++ [OpenVisionBanana/OpenVisionBanana](https://github.com/OpenVisionBanana/OpenVisionBanana) - Open Vision Banana is a fully open recipe for adapting pretrained image-to-image generators into unified models for visual perception, generation, and editing.
 
-// Last update: 2026-11-22 05:56 UTC
+// Last update: 2026-11-23 06:46 UTC
 ```
 
 <p>
