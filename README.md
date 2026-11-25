@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) - A continuation of Leonida, the Xbox > PC port interface for GTA VI
++ [bridge-mind/leonida](https://github.com/bridge-mind/leonida) - LEONIDA — a GTA VI-style open-world crime sandbox that runs in the browser (Three.js + Rapier). Non-commercial fan project.
 + [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini) - Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM.
 + [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop) - No description.
 + [yfChang-cv/MAVE](https://github.com/yfChang-cv/MAVE) - MAVE: Reconstructing Editable 3D Blockouts from Film Shots
-+ [Carol-lyh/Jeveration](https://github.com/Carol-lyh/Jeveration) - [arXiv] Jeveration: System One Models Now Generate. https://arxiv.org/abs/2611.24738
-+ [inworld-ai/voice-isolator](https://github.com/inworld-ai/voice-isolator) - Voice isolation — separating clean speech from background noise and mixed audio.
 
-// Last update: 2026-11-24 09:13 UTC
+// Last update: 2026-11-25 07:48 UTC
 ```
 
 <p>
