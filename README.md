@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
++ [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
++ [TheOrcDev/orcanva](https://github.com/TheOrcDev/orcanva) - Orcanva is a free, open-source Canva alternative for YouTube thumbnails and social images.
 + [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) - A continuation of Leonida, the Xbox > PC port interface for GTA VI
 + [bridge-mind/leonida](https://github.com/bridge-mind/leonida) - LEONIDA — a GTA VI-style open-world crime sandbox that runs in the browser (Three.js + Rapier). Non-commercial fan project.
 + [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini) - Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM.
-+ [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop) - No description.
-+ [yfChang-cv/MAVE](https://github.com/yfChang-cv/MAVE) - MAVE: Reconstructing Editable 3D Blockouts from Film Shots
 
-// Last update: 2026-11-25 07:48 UTC
+// Last update: 2026-11-26 07:40 UTC
 ```
 
 <p>
