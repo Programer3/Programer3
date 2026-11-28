@@ -43,13 +43,13 @@ programer3@github -----------------------------------------------------------
 - Lines of Code: .... 196,420 (Estimated)
 
 - Recently Starred ---------------------------------------------------------------
-+ [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
-+ [TheOrcDev/orcanva](https://github.com/TheOrcDev/orcanva) - Orcanva is a free, open-source Canva alternative for YouTube thumbnails and social images.
-+ [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) - A continuation of Leonida, the Xbox > PC port interface for GTA VI
-+ [bridge-mind/leonida](https://github.com/bridge-mind/leonida) - LEONIDA — a GTA VI-style open-world crime sandbox that runs in the browser (Three.js + Rapier). Non-commercial fan project.
-+ [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini) - Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM.
++ [az9713/wispr-flow-rea-teardown](https://github.com/az9713/wispr-flow-rea-teardown) - Wispr Flow reverse-engineered with REA (static teardown) + flowlite: a 64-line local rebuild with test receipts
++ [Jakeschincariol/console-skill](https://github.com/Jakeschincariol/console-skill) - 11 Claude skills that port PlayStation 2 games you own to PC: reverse engineer the code, rebuild the graphics and backend, any controller, play it anywhere, then mod it however you want.
++ [KarlssonChristoffer/DiskLens](https://github.com/KarlssonChristoffer/DiskLens) - WinDirStat-style disk usage analyzer for Windows 11 (Rust + Tauri + Svelte). Written entirely by an AI (Claude) with REA reverse engineering; the code is unreviewed.
++ [MG1937/ASC](https://github.com/MG1937/ASC) - ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
++ [Nowng/rea-mcp](https://github.com/Nowng/rea-mcp) - REA: Reverse Engineer Anything MCP server for LM Studio.
 
-// Last update: 2026-11-27 07:38 UTC
+// Last update: 2026-11-28 07:05 UTC
 ```
 
 <p>
